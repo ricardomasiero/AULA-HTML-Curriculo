@@ -117,7 +117,7 @@ h2 {
 #portfolio {
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: space-around   ;
 }
 #portfolio h2 {
     flex: 1 0 100%;
